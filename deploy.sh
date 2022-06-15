@@ -1,2 +1,1 @@
- this file contains the deployment scrip
- this name is added t
+ this file contains the deployment script
